@@ -8,7 +8,6 @@
 - Everything Works currently and the speed has also increased in the latest commit dut o use of non-blocking async functions.
 - Still the code may have some bugs,so feel free to post bugs in the issue section :)
 
-A simple web scrapper based on this [resolver](https://github.com/Ciarands).
 
 ## About
 
@@ -38,7 +37,7 @@ A simple web scrapper based on this [resolver](https://github.com/Ciarands).
     - #### _Vercel easy_
       Or if vercel fixes this bug,you can use this button.But vercel didnt fix this yet.
   
-      [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/cool-dev-guy/vidsrc-api)
+      [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/MasDenk/vidsrc)
   
       `IMPORTANT `: Vercel is facing a bug recently so setting node version to `18.x` is a fix for it.
   
