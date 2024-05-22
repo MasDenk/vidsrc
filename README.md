@@ -58,7 +58,7 @@ A simple web scrapper based on this [resolver](https://github.com/Ciarands).
 
 - If you liked the project and updates `buy me a coffee` :)
 
-    <a href="https://www.buymeacoffee.com/cooldevguy"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cool-milk&emoji=🥛&slug=cooldevguy&button_colour=222222&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+    <a href="https://www.buymeacoffee.com/masdenk"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cool-milk&emoji=🥛&slug=masdenk&button_colour=222222&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
 - If any issues,drop an issue on `github issues`.
 
